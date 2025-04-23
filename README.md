@@ -1,7 +1,7 @@
-<H3>NAME:RICHARDSON A</H3>
-<H3>REGISTER NO:212222233005</H3>
+<H3>NAME:Jeyabalan T</H3>
+<H3>REGISTER NO:212222240040</H3>
 <H3>EX. NO.3</H3>
-<H3>DATE:16/04/25</H3>
+<H3>DATE:
 <H1 ALIGN =CENTER> Implementation of Approximate Inference in Bayesian Networks
 </H1>
 
